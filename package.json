@@ -1,0 +1,34 @@
+{
+  "name": "edukeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorCX2/EdukeAPI.git"
+  },
+  "keywords": [],
+  "author": "Igor Cortez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorCX2/EdukeAPI/issues"
+  },
+  "homepage": "https://github.com/IgorCX2/EdukeAPI#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.0",
+    "next": "^13.1.6",
+    "nodemailer": "^6.9.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sequelize": "^6.28.0"
+  }
+}
